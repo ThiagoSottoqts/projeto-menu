@@ -1,2 +1,2 @@
 # projeto-menu
- Projeto de um menu do curso Fullstach Javascript do Thiago Medeiros.
+ Projeto de um menu do curso Fullstack Javascript do Thiago Medeiros.
